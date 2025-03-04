@@ -15,7 +15,3 @@ The algorithm extracts elements from a matrix in a spiral pattern, starting from
 ## Complexity
 - **Time Complexity:** O(m × n), where m is the number of rows and n is the number of columns.
 - **Space Complexity:** O(m × n) for storing the result list.
-
-## License
-This project is licensed under the MIT License.
-
